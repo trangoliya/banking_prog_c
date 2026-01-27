@@ -2,6 +2,9 @@
 
 This project was assigned during my internship as part of **Programming Fundamental Revision**.  
 The objective of this project is to revise and strengthen core concepts of C programming through a practical implementation.
+- Project Type: Fundamental Revision Task 
+- Domain: C Programming
+- Mode: Console-based Application
 
 ## Purpose of the Project
 - Revise C programming fundamentals
@@ -20,3 +23,7 @@ The objective of this project is to revise and strengthen core concepts of C pro
 
 ## Technologies Used
 - C Programming Language
+
+## Author
+- **Tusharth Rangoliya**
+- Intern at Grownited Pvt. Ltd.
